@@ -847,13 +847,16 @@ div#radix-\:Ra6ukq\: {
   .stap_1_img {
     width: 100%;
   }
-
+  .stap_1_img img {
+    max-height: 500px;
+}
   .demo_start p {
     margin: 0 0 40px 0;
   }
 
   .stap {
     display: block;
+    overflow-y: scroll;
   }
 
   .start_demo {
