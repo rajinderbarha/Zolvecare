@@ -11,7 +11,7 @@ function Pricing() {
                         <h4 className='font-semibold py-4 px-6'>Starter Plan</h4>
                         <div className='md:p-8 p-6'>
                             <h3 className='font-semibold mb-4'>$0.00</h3>
-                            <p className='pb-4 border-b font-normal'>Kickstart your healthcare journey with Zolvecare's Starter Plan: easy-to-use interface, basic documentation features, all at zero cost.</p>
+                            <p className='pb-4 border-b font-normal'>Kickstart your healthcare journey with Zolvecare&apos;s Starter Plan: easy-to-use interface, basic documentation features, all at zero cost.</p>
                             <h5 className='font-semibold my-4'>Access to:</h5>
                             <ul className='pricing_list pb-4 border-b mb-4'>
                                 <li>User-Friendly Interface</li>
@@ -29,7 +29,7 @@ function Pricing() {
                         <h4 className='font-semibold py-4 px-6'>Professional Plan</h4>
                         <div className='md:p-8 p-6'>
                             <h3 className='font-semibold mb-4'>$99.00/mo</h3>
-                            <p className='pb-4 border-b font-normal'>Zolvecare's Professional Plan empowers healthcare teams with advanced documentation, collaboration, and analytics tools, ensuring seamless patient care and practice optimization.</p>
+                            <p className='pb-4 border-b font-normal'>Zolvecare&apos;s Professional Plan empowers healthcare teams with advanced documentation, collaboration, and analytics tools, ensuring seamless patient care and practice optimization.</p>
                             <h5 className='font-semibold my-4'>Everything in Starter+</h5>
                             <ul className='pricing_list pb-4 border-b mb-4'>
                                 <li>User-Friendly Interface</li>

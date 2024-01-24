@@ -5,7 +5,6 @@ import {
     SheetTrigger,
 } from "./ui/sheet"
 import Image from 'next/image';
-import './popup.css'
 function Free_Demo(props) {
 
     return (

@@ -19,6 +19,7 @@ function Benner() {
                                 width={996}
                                 height={721}
                             />
+                            
                         </div>
                         <div className='benner_blenk'>
 

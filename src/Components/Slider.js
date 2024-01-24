@@ -29,7 +29,7 @@ function Slider() {
                                         />
                                         <h3 className='font-semibold'>Dr. Smith, General Practitioner</h3>
                                     </div>
-                                    <p className='font-normal'>“Zolvecare has been a game-changer for my practice. The AI-driven automation has drastically reduced my documentation time, allowing me to focus more on patient care. It's intuitive, efficient, and has truly elevated my workflow."</p>
+                                    <p className='font-normal'>&quot;Zolvecare has been a game-changer for my practice. The AI-driven automation has drastically reduced my documentation time, allowing me to focus more on patient care. It&apos;s intuitive, efficient, and has truly elevated my workflow.&quot;</p>
                                 </Card>
                             </div>
                         </CarouselItem>
@@ -46,7 +46,7 @@ function Slider() {
                                         />
                                         <h3 className='font-semibold'>Dr. Smith, General Practitioner</h3>
                                     </div>
-                                    <p className='font-normal'>“Zolvecare has been a game-changer for my practice. The AI-driven automation has drastically reduced my documentation time, allowing me to focus more on patient care. It's intuitive, efficient, and has truly elevated my workflow."</p>
+                                    <p className='font-normal'>&quot;Zolvecare has been a game-changer for my practice. The AI-driven automation has drastically reduced my documentation time, allowing me to focus more on patient care. It&apos;s intuitive, efficient, and has truly elevated my workflow.&quot;</p>
                                 </Card>
                             </div>
                         </CarouselItem>
@@ -63,7 +63,7 @@ function Slider() {
                                         />
                                         <h3 className='font-semibold'>Dr. Smith, General Practitioner</h3>
                                     </div>
-                                    <p className='font-normal'>“Zolvecare has been a game-changer for my practice. The AI-driven automation has drastically reduced my documentation time, allowing me to focus more on patient care. It's intuitive, efficient, and has truly elevated my workflow."</p>
+                                    <p className='font-normal'>&quot;Zolvecare has been a game-changer for my practice. The AI-driven automation has drastically reduced my documentation time, allowing me to focus more on patient care. It&apos;s intuitive, efficient, and has truly elevated my workflow.&quot;</p>
                                 </Card>
                             </div>
                         </CarouselItem>
