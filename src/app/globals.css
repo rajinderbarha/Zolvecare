@@ -687,7 +687,6 @@ color: #fff;
 .stap_1_img img {
   height: 100%;
   width: 100%;
-  object-fit: cover;
 }
 
 .stap_1_img {
@@ -926,8 +925,7 @@ div#radix-\:Ra6ukq\: {
     margin: 0 0 30px 0;
   }
   .stap_1_img img {
-   
-    max-height: 299px;
+    max-height: 400px;
 }
 
 }
