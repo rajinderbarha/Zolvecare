@@ -57,7 +57,14 @@ body {
   color: rgb(var(--foreground-rgb));
   font-family: 'Fellix' !important;
 }
-
+.setPopupbtn {
+  background-color: #3B82F6;
+  padding: 8px;
+  border-radius: 20px;
+}
+.setPopupbtn svg{
+color: #fff;
+}
 .Free_Demo {
   padding: 14px 24px;
   border-radius: 8px;
