@@ -4,7 +4,7 @@ import {
     SheetContent,
     SheetTrigger,
 } from "./ui/sheet"
-
+import Image from 'next/image';
 import './popup.css'
 function Free_Demo(props) {
 
@@ -16,7 +16,13 @@ function Free_Demo(props) {
                 <SheetContent>
                     <div className="stap">
                         <div className="stap_1_img">
-                            <img src="https://framerusercontent.com/images/NMKtK3gNVdeb5dkKv5I4HXZ9AFo.png?scale-down-to=1024" alt="stap_img" />
+                        <Image
+                                className=" w-full mx-auto"
+                                src="/Image/poup1.png"
+                                alt="logos"
+                                width={996}
+                                height={721}
+                            />
 
                         </div>
                         <div className="start_demo">

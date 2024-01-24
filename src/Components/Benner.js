@@ -12,11 +12,12 @@ function Benner() {
                         </div>
                         <div className='Benner_img'>
 
-                            <img
-                                className="w-full mx-auto"
-                                src="https://framerusercontent.com/images/thMFo5bfQ6lvVikryNh06tBpLXo.png?scale-down-to=1024"
+                            <Image
+                                className=" w-full mx-auto"
+                                src="/Image/Benner_home.png"
                                 alt="logos"
-                                
+                                width={996}
+                                height={721}
                             />
                         </div>
                         <div className='benner_blenk'>
